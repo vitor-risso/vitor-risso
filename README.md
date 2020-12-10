@@ -7,6 +7,13 @@
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
+
+ <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519993747589"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/_vitorrisso/""/></a>
+</p>  
 -->
 
 
@@ -30,9 +37,4 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-risso)](https://www.linkedin.com/in/vitor-risso)
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519993747589"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/_vitorrisso/""/></a>
-</p>  
+ 
