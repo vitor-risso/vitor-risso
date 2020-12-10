@@ -2,12 +2,13 @@
 
 <!--
 **vitor-risso/vitor-risso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
+-->
+
 
 <p align="left">
   🦄 Linguagens: <strong>Javascript</strong>
@@ -23,11 +24,11 @@
 
 
   
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carollquiterio@gmail.com)](mailto:risso.vitor.vitor37@gmail.com@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:risso.vitor.vitor37@gmail.com)](mailto:risso.vitor.vitor37@gmail.com@gmail.com)
 
   
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/carolina-quiterio-978419188/)](https://www.linkedin.com/in/cvitor-risso)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-risso)](https://www.linkedin.com/in/cvitor-risso)
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519993747589"/></a>
