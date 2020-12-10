@@ -24,7 +24,7 @@
 
 
   
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:risso.vitor.vitor37@gmail.com)](mailto:risso.vitor.vitor37@gmail.com@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:risso.vitor.vitor37@gmail.com)](mailto:risso.vitor.vitor37@gmail.com)
 
   
 
