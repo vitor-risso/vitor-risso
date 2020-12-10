@@ -19,15 +19,15 @@
 
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript</strong>
+  🦄 Languages: <strong>Javascript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>ReactJS and Node</strong>
+  💼 Tools: <strong>ReactJS and Node</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 How to contact me ⤵️
 </p>
 
 
