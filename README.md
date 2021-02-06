@@ -14,7 +14,7 @@
 -->
 
 <p align="left"> 
-  I'm mechatronic student from technical high school of unicamp, I currently work with frontend applications with Reactjs and sometimes I make some projects with node using puppeteer
+  I'm mechatronic student from technical high school of unicamp, I currently work with frontend applications with Reactjs and sometimes I make some projects with node using puppeteer. And recently i started to creat API Rest with nodejs
 </p>
 
 
