@@ -14,16 +14,17 @@
 -->
 
 <p align="left"> 
-  I'm mechatronic student from technical high school of unicamp, I currently work with frontend applications with Reactjs and sometimes I make some projects with node using puppeteer. And recently i started to creat API Rest with nodejs
+  I'm mechatronic student from technical high school of unicamp, I currently work with android applications with kotlin and sometimes I make someAPI's with node.
 </p>
 
 
 <p align="left">
   🦄 Languages: <strong>Javascript</strong>
+             <strong> Kotlin </strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>ReactJS and Node</strong>
+  💼 Tools: <strong>ReactJS, Node, Typescript and kotlin</strong>
 </p>
 
 <p align="left">
