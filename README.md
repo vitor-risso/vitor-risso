@@ -19,7 +19,7 @@
 
 
 <p align="left">
-  🦄 Languages: <strong>Javascript</strong>
+  🦄 Languages: <strong>Javascript</strong> and
              <strong> Kotlin </strong>
 </p>
 
