@@ -21,25 +21,16 @@
 
 
 <p align="center">
-  🦄 Languages: <strong>Javascript</strong> and
-             <strong> Kotlin </strong>
-</p>
-
-<p align="center">
-  💼 Tools: <strong>ReactJS, Node, Typescript and kotlin</strong>
-</p>
-
-<p align="center">
   💌 How to contact me ⤵️
 </p>
 
 
-<div align='center' display='flex'>  
+<div display='row' align='center' >  
  
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato.vitorrisso@gmail.com)](mailto:contato.vitorrisso@gmail.com)
-
+   <a href="https://instagram.com/_vitorrisso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
+ <a href = "mailto:contato.vitorrisso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-risso)](https://www.linkedin.com/in/vitor-risso)
+ <a href="https://www.linkedin.com/in/vitor-risso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
  
