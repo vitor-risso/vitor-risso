@@ -1,42 +1,36 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=vitor-risso&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300%22'>
+<h1 align='center'>
+ Hello, my name is Vitor Risso
+ </h1>
 
-<!--
-**vitor-risso/vitor-risso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+ <img src="https://github-readme-stats.vercel.app/api?username=vitor-risso&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" /> 
+</p>
 
-
-
- <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519993747589"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/_vitorrisso/""/></a>
-</p>  
--->
-
-<p align="left"> 
+<p align="center"> 
   I'm mechatronic student from technical high school of unicamp, I currently work with android applications with kotlin and sometimes I make someAPI's with node.
 </p>
 
 
-<p align="left">
+<p align="center">
   🦄 Languages: <strong>Javascript</strong> and
              <strong> Kotlin </strong>
 </p>
 
-<p align="left">
+<p align="center">
   💼 Tools: <strong>ReactJS, Node, Typescript and kotlin</strong>
 </p>
 
-<p align="left">
+<p align="center">
   💌 How to contact me ⤵️
 </p>
 
 
-  
+<div align='center' display='flex'>  
+ 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato.vitorrisso@gmail.com)](mailto:contato.vitorrisso@gmail.com)
 
   
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/vitor-risso)](https://www.linkedin.com/in/vitor-risso)
-
+</div>
  
